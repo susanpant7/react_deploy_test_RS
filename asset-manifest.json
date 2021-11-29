@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_deploy_test_RS/static/css/main.cebb1ba3.chunk.css",
+    "main.js": "/react_deploy_test_RS/static/js/main.6983c93c.chunk.js",
+    "main.js.map": "/react_deploy_test_RS/static/js/main.6983c93c.chunk.js.map",
+    "runtime-main.js": "/react_deploy_test_RS/static/js/runtime-main.bfc4bc59.js",
+    "runtime-main.js.map": "/react_deploy_test_RS/static/js/runtime-main.bfc4bc59.js.map",
+    "static/css/2.23be2b8a.chunk.css": "/react_deploy_test_RS/static/css/2.23be2b8a.chunk.css",
+    "static/js/2.87f865d6.chunk.js": "/react_deploy_test_RS/static/js/2.87f865d6.chunk.js",
+    "static/js/2.87f865d6.chunk.js.map": "/react_deploy_test_RS/static/js/2.87f865d6.chunk.js.map",
+    "static/js/3.1af97533.chunk.js": "/react_deploy_test_RS/static/js/3.1af97533.chunk.js",
+    "static/js/3.1af97533.chunk.js.map": "/react_deploy_test_RS/static/js/3.1af97533.chunk.js.map",
+    "index.html": "/react_deploy_test_RS/index.html",
+    "static/css/2.23be2b8a.chunk.css.map": "/react_deploy_test_RS/static/css/2.23be2b8a.chunk.css.map",
+    "static/css/main.cebb1ba3.chunk.css.map": "/react_deploy_test_RS/static/css/main.cebb1ba3.chunk.css.map",
+    "static/js/2.87f865d6.chunk.js.LICENSE.txt": "/react_deploy_test_RS/static/js/2.87f865d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfc4bc59.js",
+    "static/css/2.23be2b8a.chunk.css",
+    "static/js/2.87f865d6.chunk.js",
+    "static/css/main.cebb1ba3.chunk.css",
+    "static/js/main.6983c93c.chunk.js"
+  ]
+}
